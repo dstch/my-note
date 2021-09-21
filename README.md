@@ -10,3 +10,4 @@ https://blog.csdn.net/guotianqing/article/details/87527614
 
 https://github.com/mylxsw/wizard/blob/master/public/assets/vendor/editor-md/plugins/image-handle-paste/image-handle-paste.js
 https://blog.csdn.net/gdp12315_gu/article/details/51812268
+https://stackoverflow.com/questions/23027595/how-to-fix-prettytable-to-display-chinese-character-properly
